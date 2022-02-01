@@ -16,7 +16,8 @@ retryable_error_codes = {
     '1014': 'Failed to create Object',
     '1016': 'Too many imports',
     '1019': 'Import in progress',
-    '1022': 'Object in use'
+    '1022': 'Object in use',
+    '1029': 'Too many jobs in queue'
 }
 
 
